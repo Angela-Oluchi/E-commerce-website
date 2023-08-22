@@ -691,6 +691,22 @@ footer .copyright{
     z-index: -9;
 }
 
+/* continue reading */
+#shop-header.zipup-header{
+    background-image: url(./img/banner/b19.jpg);
+
+}
+
+#zipup-details h2{
+    text-align: center;
+    padding-top: 30px;
+}
+#zipup-details p{
+    width: 80%;
+    align-items: center;
+    margin-left: 120px;
+}
+
 /* about us page */
 #shop-header.about-header{
     background-image: url(./img/about/banner.png);
